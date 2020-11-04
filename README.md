@@ -14,6 +14,7 @@ sorted order while implementing Elo algorithm.
     Ref https://www.geeksforgeeks.org/elo-rating-algorithm/
 
 ## Project Description 
+Project give below listed outputs.
 
 * Score each player based on the games played 
 * Generate a list of players sorted by score, their ranking (position in the list) and their number of wins and losses.
